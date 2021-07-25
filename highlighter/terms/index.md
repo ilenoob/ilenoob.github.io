@@ -89,7 +89,7 @@ B. to each user of the Service, a worldwide, non-exclusive, royalty-free license
 
 ### 10. LINKS FROM LENOOB
 
-    10.1 The Service may include hyperlinks to other web sites that are not owned or controlled by LeNoob. LeNoob has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites.
+10.1 The Service may include hyperlinks to other web sites that are not owned or controlled by LeNoob. LeNoob has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites.
 
 10.2 You acknowledge and agree that LeNoob is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such web sites or resources.
 
@@ -99,7 +99,7 @@ B. to each user of the Service, a worldwide, non-exclusive, royalty-free license
 
 ### 11. ENDING YOUR RELATIONSHIP WITH LENOOB
 
-    11.1 The Terms will continue to apply until terminated by either you or LeNoob as set out below.
+11.1 The Terms will continue to apply until terminated by either you or LeNoob as set out below.
 
 11.2 If you want to terminate your legal agreement with LeNoob, you may do so by (a) notifying LeNoob at any time and (b) closing your LeNoob account. Your notice should be sent, in writing, to LeNoob’s address which is set out at the beginning of these Terms.
 
@@ -115,7 +115,7 @@ B. the provision of the Service to you by LeNoob is, in LeNoob’s opinion, no l
 
 ### 12. EXCLUSION OF WARRANTIES
 
-    12.1 Nothing in the Terms shall affect any statutory rights that you are always entitled to as a consumer and that you cannot contractually agree to alter or waive.
+12.1 Nothing in the Terms shall affect any statutory rights that you are always entitled to as a consumer and that you cannot contractually agree to alter or waive.
 
 12.2 The Service is provided “as is” and LeNoob makes no warranty or representation to you with respect to them.
 
@@ -129,7 +129,7 @@ D. That defects in the operation or functionality of any software provided to yo
 
 ### 13. LIMITATION OF LIABILITY
 
-    13.1 Nothing in these Terms shall exclude or limit LeNoob’s liability for losses which may not be lawfully excluded or limited by applicable law.
+13.1 Nothing in these Terms shall exclude or limit LeNoob’s liability for losses which may not be lawfully excluded or limited by applicable law.
 
 13.2 Subject to the overall provision in paragraph 13.1 above LeNoob shall not be liable to you for:
 
@@ -144,11 +144,11 @@ v. Your failure to keep your password or LeNoob account details secure and confi
 
 ### 14. PAYMENTS
 
-    In connection with your requested purchasing, you will be asked to provide customary billing information such as name, billing address and credit card information third-party payment processor, Stripe. You agree to pay LeNoob Payments for any confirmed purchasing made in connection with your LeNoob Account in accordance with these Terms by one of the methods described on the Site or Application, e.g. by Stripe. You hereby authorize the collection of such amounts by charging the credit card provided as part of requesting purchase via a third-party online payment processor, Stripe.
+In connection with your requested purchasing, you will be asked to provide customary billing information such as name, billing address and credit card information third-party payment processor, Stripe. You agree to pay LeNoob Payments for any confirmed purchasing made in connection with your LeNoob Account in accordance with these Terms by one of the methods described on the Site or Application, e.g. by Stripe. You hereby authorize the collection of such amounts by charging the credit card provided as part of requesting purchase via a third-party online payment processor, Stripe.
 
 ### 15. GENERAL LEGAL TERMS
 
-    15.1 The Terms constitute the whole legal agreement between you and LeNoob and govern your use of the Service and completely replace any prior agreements between you and LeNoob in relation to the Service.
+15.1 The Terms constitute the whole legal agreement between you and LeNoob and govern your use of the Service and completely replace any prior agreements between you and LeNoob in relation to the Service.
 
 15.2 You agree that LeNoob may provide you with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Service.
 
